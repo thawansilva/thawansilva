@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Thawan / Olá, eu sou o Thawan 👋
 
 <!--
 **thawansilva/thawansilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
