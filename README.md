@@ -11,7 +11,7 @@
   <img align="center" alt="Thaw-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br/>
-🔭 Eu trabalho como Desenvolvedor Front-end / I’m currently working on Front-end Development. <br/>
+🔭 Eu trabalho como Desenvolvedor Front-end / I’m currently working as Front-end Development. <br/>
 🌱 Eu estou estudando estrutura de dados, algoritmos e ReactJS / I’m currently learning Data Structures, algorithms and ReactJS.
   <br/>
   <a href="https://www.instagram.com/thaw.silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
