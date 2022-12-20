@@ -17,7 +17,7 @@
 </div>
 <br/>
 🔭 Eu trabalho como Desenvolvedor Front-end / I’m currently working as Front-end Development. <br/>
-🌱 Eu estou estudando React-query / I’m currently learning React-query.
+🌱 Eu estou estudando Typescript / I’m currently learning Typescript.
   <br/>
   <a href="https://www.instagram.com/thaw.silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thawansilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
