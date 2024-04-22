@@ -17,7 +17,7 @@
 </div>
 <br/>
 🔭 Eu trabalho como Desenvolvedor Front-end / I’m currently working as Front-end Development. <br/>
-🌱 Eu estou estudando Introdução a Ciência da Computação pelo CS50 / I’m currently studying CS50
+🌱 Atualmente, eu estou estudando Backend e base de dados / I’m currently studying backend and database
   <br/>
   <a href="https://www.instagram.com/thaw.silva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thawansilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
