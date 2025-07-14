@@ -23,6 +23,6 @@
 </p>
 
 <d  iv align="center">
-  [![Thawan Silva](https://github-readme-stats.vercel.app/api?username=ThawanSilvala&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide=contribs)](https://github.com/thawansilva)
+  ![Thawan Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=thawansilva&show_icons=true&bg_color=00000000&theme=dark)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thawansilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
