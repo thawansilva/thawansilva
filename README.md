@@ -22,6 +22,6 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThawanSilva&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawansilva&layout=compact&langs_count=7)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThawanSilva&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawansilva&layout=compact&langs_count=7&theme=algolia)
 
