@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<d  iv align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thawansilva&show_icons=true&hide_border=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thawansilva&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thawansilva&layout=compact&langs_count=7&theme=algolia"/>
 </div>
