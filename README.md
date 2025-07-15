@@ -7,7 +7,6 @@ Currently, I am a former student at 42 (São Paulo), I am a friendly person that
 <a href="https://www.linkedin.com/in/thawansilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin icon linking to my account" height="30" width="40" /></a>
 
 ## Languages and Tools:
----
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,c,py,typescript,html,css,react,java,tailwind,django,sqlite,vim,linux,git,vite,figma" />
   </a>
