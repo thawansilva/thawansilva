@@ -1,6 +1,6 @@
 # Hi, I am Thawan 👋
 ## Who am I?
-Currently, I am a former student at 42 (São Paulo), I am a friendly person that believe in people. I value good relationships, care about the well-being of thoses around me, and always strive to give my best in everything I do. I am emotionally balanced, handle challenges chanllenges and I enjoy discovering new experinces :)
+Currently, I am a former student at 42 (São Paulo), I am a friendly person that believe in people. I value good relationships, care about the well-being of thoses around me, and always strive to give my best in everything I do. I am emotionally balanced, handle challenges well and enjoy discovering new experiences :)
 
 ## Contact me
 <a href="https://twnpsilva@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="Gmail icon linking to my email" height="30" width="40" /></a>
