@@ -1,6 +1,13 @@
 # Hi, I am Thawan 👋
 ## Who am I?
-Currently, I am a former student at 42 (São Paulo), I am a friendly person that believe in people. I value good relationships, care about the well-being of thoses around me, and always strive to give my best in everything I do. I am emotionally balanced, handle challenges well and enjoy discovering new experiences :)
+I am a friendly and smiley person, I love being around those I care about and value their well-being. I have a traveler's soul that enjoy new experiences, discovering different cultures, and trying new things. I've done a lot of backpacking, which brought challenges that helped me grow as a person and learn how to manage my emotions.
+Currently, I am a former student at 42 São Paulo :)
+
+## Professional experience
+I have done freelancing jobs where I built Landing pages for small companies and entrepreneurs.
+
+## What I am learning?
+I am developing a libft project, where I recreating the C standard library, but also I am studying Docker.
 
 ## Contact me
 <a href="https://twnpsilva@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="Gmail icon linking to my email" height="30" width="40" /></a>
@@ -11,6 +18,6 @@ Currently, I am a former student at 42 (São Paulo), I am a friendly person that
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,c,py,typescript,html,css,react,java,tailwind,django,sqlite,vim,linux,git,vite,figma" />
   </a>
-
+## Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThawanSilva&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawansilva&layout=compact&langs_count=7&theme=algolia)
