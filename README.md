@@ -19,5 +19,6 @@ I am developing a libft project, where I recreating the C standard library, but 
     <img src="https://skillicons.dev/icons?i=c,javascript,py,typescript,html,css,react,java,tailwind,django,flask,firebase,sqlite,vim,linux,git,vite,figma" />
   </a>
 ## Github Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThawanSilva&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawansilva&layout=compact&langs_count=7&theme=algolia)
