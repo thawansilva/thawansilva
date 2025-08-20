@@ -13,11 +13,17 @@ I have done freelancing jobs where I built Landing pages for small companies and
 
 I am developing a libft project, where I recreating the C standard library, but also I am studying Docker.
 
-## ✉️ Contact me
+<div align="center">
 
-<a href="https://twnpsilva@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="Gmail icon linking to my email" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/thawansilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin icon linking to my account" height="30" width="40" /></a>
-<a href="https://www.discord.com/users/1017894352187555901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/discord.svg" alt="Discord icon linking to my account" height="30" width="40" /></a>
+| [<img src=badges/commom_core/fase1/fase1.png width=150/>](https://github.com/thawansilva) |
+| :---------------------------------------------------------------------------------------: |
+
+[<img src=badges/commom_core/fase1/libft.png width=70/>](https://github.com/thawansilva/libft)
+[<img src=badges/commom_core/fase1/gnl.png width=70/>](https://github.com/thawansilva/get_next_line)
+[<img src=badges/commom_core/fase1/printf.png width=70/>](https://github.com/thawansilva/ft_printf)
+[<img src=badges/commom_core/fase1/born.png width=70/>](https://github.com/thawansilva)
+
+</div>
 
 ## 💻 Languages and Tools:
 
@@ -36,6 +42,12 @@ I am developing a libft project, where I recreating the C standard library, but 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,linux,vscode,git,github,figma" />
   </a>
+
+## ✉️ Contact me
+
+<a href="https://twnpsilva@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="Gmail icon linking to my email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thawansilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin icon linking to my account" height="30" width="40" /></a>
+<a href="https://www.discord.com/users/1017894352187555901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/discord.svg" alt="Discord icon linking to my account" height="30" width="40" /></a>
 
 ## Github Stats
 
