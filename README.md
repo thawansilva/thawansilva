@@ -18,10 +18,10 @@ I am developing a libft project, where I recreating the C standard library, but 
 | [<img src=badges/commom_core/fase1/fase1.png width=150/>](https://github.com/thawansilva) |
 | :---------------------------------------------------------------------------------------: |
 
-[<img src=badges/commom_core/fase1/libft.png width=70/>](https://github.com/thawansilva/libft)
-[<img src=badges/commom_core/fase1/gnl.png width=70/>](https://github.com/thawansilva/get_next_line)
-[<img src=badges/commom_core/fase1/printf.png width=70/>](https://github.com/thawansilva/ft_printf)
-[<img src=badges/commom_core/fase1/born.png width=70/>](https://github.com/thawansilva)
+[<img src=./badges/commom_core/fase1/libft.png width=70/>](https://github.com/thawansilva/libft)
+[<img src=./badges/commom_core/fase1/gnl.png width=70/>](https://github.com/thawansilva/get_next_line)
+[<img src=./badges/commom_core/fase1/printf.png width=70/>](https://github.com/thawansilva/ft_printf)
+[<img src=./badges/commom_core/fase1/born.png width=70/>](https://github.com/thawansilva)
 
 </div>
 
