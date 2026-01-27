@@ -16,16 +16,16 @@ I am developing a libft project, where I recreating the C standard library, but 
 ## 💻 Languages and Tools:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,javascript,py,typescript,html,css,java" />
+    <img src="https://skillicons.dev/icons?i=c,javascript,typescript,py,html,css" />
   </a>
 
 ### 👨🏽‍💻 Frameworks and Libraries
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,django,flask,firebase,sqlite" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,flask,firebase,sqlite,postgresql,docker" />
   </a>
 
-### 🧰 Develpment Tools
+### 🧰 Development Tools
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vim,linux,vscode,git,github,figma" />
@@ -35,7 +35,6 @@ I am developing a libft project, where I recreating the C standard library, but 
 
 <a href="https://twnpsilva@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="Gmail icon linking to my email" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/thawansilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin icon linking to my account" height="30" width="40" /></a>
-<a href="https://www.discord.com/users/1017894352187555901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/discord.svg" alt="Discord icon linking to my account" height="30" width="40" /></a>
 
 ## Github Stats
 
