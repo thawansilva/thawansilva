@@ -11,7 +11,7 @@ I have done freelancing jobs where I built Landing pages for small companies and
 
 ## 📚 What I am learning?
 
-I am developing a libft project, where I recreating the C standard library, but also I am studying Docker.
+I am developing a mini raytracer project.
 
 ## 💻 Languages and Tools:
 
