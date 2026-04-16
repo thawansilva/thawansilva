@@ -1,37 +1,26 @@
-# Hi, I am Thawan 👋
+## Hello there, I am Thawan 👋
 
-## 🧑🏻‍🦱 Who am I?
+### Full-Stack developer by day and a C/C++ Student by night
 
-I am a friendly and smiley person, I love being around those I care about and value their well-being. I have a traveler's soul that enjoy new experiences, discovering different cultures, and trying new things. I've done a lot of backpacking, which brought challenges that helped me grow as a person and learn how to manage my emotions.
-Currently, I am a former student at 42 São Paulo :)
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square)
+![C](https://img.shields.io/static/v1?logo=c&label=&message=c&color=36465D&logoColor=AAA&style=flat-square)
+![C++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=c++&color=36465D&logoColor=AAA&style=flat-square)
+![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=csharp&color=36465D&logoColor=AAA&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 
-## 💼 Professional experience
+- 🔭 Full-Stack Jr. Developer at [Cinga Tech](https://cinga.tech/);</br>
+- 📚 Cadet at [42 São Paulo](https://www.42sp.org.br/);</br>
+- 🛠 I am developing a [Mini Raytracer](https://github.com/thaperei-hermarti/minirt) in C. </br>
 
-I am working as a FullStack Jr. Developer at Cinga Tech, but I also have done freelancing jobs where I built Landing pages for small companies and entrepreneurs.
+Let's connect, it will be a pleasure :)
 
-## 📚 What I am learning?
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/thawansilva/)
 
-I am developing a mini raytracer project.
-
-## 💻 Languages and Tools:
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,javascript,typescript,py,html,css" />
-  </a>
-
-### 👨🏽‍💻 Frameworks and Libraries
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,flask,firebase,sqlite,postgresql,docker" />
-  </a>
-
-### 🧰 Development Tools
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,linux,vscode,git,github,dotnet,visualstudio,figma" />
-  </a>
-
-## ✉️ Contact me
-
-<a href="https://twnpsilva@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="Gmail icon linking to my email" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/thawansilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin icon linking to my account" height="30" width="40" /></a>
+![Thawan's github stats](https://github-readme-stats.vercel.app/api?username=thawansilva&show_icons=true&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawansilva&layout=compact&theme=dark&hide_border=true)
