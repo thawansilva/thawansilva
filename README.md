@@ -1,12 +1,11 @@
 ## Hello there, I am Thawan 👋
 
-### Full-Stack developer by day and a C/C++ Student by night
+### Full-Stack developer and a C/C++ Student
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square)
 ![C](https://img.shields.io/static/v1?logo=c&label=&message=c&color=36465D&logoColor=AAA&style=flat-square)
 ![C++](https://img.shields.io/static/v1?logo=cplusplus&label=&message=c++&color=36465D&logoColor=AAA&style=flat-square)
-![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=csharp&color=36465D&logoColor=AAA&style=flat-square)
+![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=typescript&color=36465D&logoColor=AAA&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
@@ -21,6 +20,7 @@
 Let's connect, it will be a pleasure :)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/thawansilva/)
+[![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=4500E0&style=flat-square)](https://thawanps.vercel.app/)
 
 ![Thawan's github stats](https://github-readme-stats.vercel.app/api?username=thawansilva&show_icons=true&hide_border=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawansilva&layout=compact&theme=dark&hide_border=true)
