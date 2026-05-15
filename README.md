@@ -15,7 +15,7 @@
 
 - 🔭 Full-Stack Jr. Developer at [Cinga Tech](https://cinga.tech/);</br>
 - 📚 Cadet at [42 São Paulo](https://www.42sp.org.br/);</br>
-- 🛠 I am developing a [Mini Raytracer](https://github.com/thaperei-hermarti/minirt) in C. </br>
+- 🛠 I am developing a [C++ Module](https://github.com/thaperei/cpp05) of 42 São Paulo School. </br>
 
 Let's connect, it will be a pleasure :)
 
@@ -23,15 +23,12 @@ Let's connect, it will be a pleasure :)
 [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=4500E0&style=flat-square)](https://thawanps.vercel.app/)
 [![Medium Articles](https://img.shields.io/static/v1?label=&message=Medium&color=333&style=flat-square)](https://medium.com/@twnpsilva)
 
-##  ![](https://geps.dev/progress/71.42) 42 São Paulo's Common Core Progress:
+##  ![](https://geps.dev/progress/75.00) 42 São Paulo's Common Core Progress:
 
 ✅ **Milestone 0:** [Libft](https://github.com/thawansilva/libft)  
 ✅ **Milestone 1:** [printf](https://github.com/thawansilva/ft_printf), [get_next_line](https://github.com/thawansilva/get_next_line), Born2BeRoot  
 ✅ **Milestone 2:** [fdf](https://github.com/thawansilva/FDF), [push_swap](https://github.com/thawansilva/push_swap), [pipex](https://github.com/thawansilva/pipex), Exam2    
 ✅ **Milestone 3:** [philosophers](https://github.com/thawansilva/philosophers), [minishell](https://github.com/thaperei-hermarti/minishell), Exam3  
-🟨 **Milestone 4:** NetPractice, [MiniRT](https://github.com/thaperei-hermarti/minirt), [CPP00-CPP04](https://github.com/thawansilva/CPP), Exam4  
+✅ **Milestone 4:** NetPractice, [MiniRT](https://github.com/thaperei-hermarti/minirt), [CPP00-CPP04](https://github.com/thawansilva/CPP), Exam4  
 🟨 **Milestone 5:** Webserv, Inception, CPP05-CPP09, Exam5  
 🟨 **Milestone 6:** ft_transcendence, Exam6
-
-![Thawan's github stats](https://github-readme-stats.vercel.app/api?username=thawansilva&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawansilva&layout=compact&theme=dark&hide_border=true)
