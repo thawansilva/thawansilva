@@ -28,7 +28,7 @@ Let's connect, it will be a pleasure :)
 ✅ **Milestone 0:** [Libft](https://github.com/thawansilva/libft)  
 ✅ **Milestone 1:** [printf](https://github.com/thawansilva/ft_printf), [get_next_line](https://github.com/thawansilva/get_next_line), Born2BeRoot  
 ✅ **Milestone 2:** [fdf](https://github.com/thawansilva/FDF), [push_swap](https://github.com/thawansilva/push_swap), [pipex](https://github.com/thawansilva/pipex), Exam2    
-✅ **Milestone 3:** [philosophers](https://github.com/thawansilva/philosophers), [minishell](https://github.com/thaperei-hermarti/minishell), Exam3
-✅ **Milestone 4:** NetPractice, [MiniRT](https://github.com/thaperei-hermarti/minirt), [CPP00-CPP04](https://github.com/thawansilva/cpp_modules), Exam4
-🟨 **Milestone 5:** Webserv, Inception, [CPP05-CPP09](https://github.com/thawansilva/cpp_modules), Exam5
+✅ **Milestone 3:** [philosophers](https://github.com/thawansilva/philosophers), [minishell](https://github.com/thaperei-hermarti/minishell), Exam3      
+✅ **Milestone 4:** NetPractice, [MiniRT](https://github.com/thaperei-hermarti/minirt), [CPP00-CPP04](https://github.com/thawansilva/cpp_modules), Exam4     
+🟨 **Milestone 5:** Webserv, Inception, [CPP05-CPP09](https://github.com/thawansilva/cpp_modules), Exam5    
 🟨 **Milestone 6:** ft_transcendence, Exam6
