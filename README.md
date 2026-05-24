@@ -15,7 +15,7 @@
 
 - 🔭 Full-Stack Jr. Developer at [Cinga Tech](https://cinga.tech/);</br>
 - 📚 Cadet at [42 São Paulo](https://www.42sp.org.br/);</br>
-- 🛠 I am developing a [C++ Module](https://github.com/thaperei/cpp05) of 42 São Paulo School. </br>
+- 🛠 I am developing a [C++ Module](https://github.com/thaperei/cpp_modules) of 42 São Paulo School. </br>
 
 Let's connect, it will be a pleasure :)
 
