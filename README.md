@@ -23,7 +23,7 @@ Let's connect, it will be a pleasure :)
 [![Portfolio](https://img.shields.io/static/v1?label=&message=Portfolio&color=4500E0&style=flat-square)](https://thawanps.vercel.app/)
 [![Medium Articles](https://img.shields.io/static/v1?label=&message=Medium&color=333&style=flat-square)](https://medium.com/@twnpsilva)
 
-##  ![](https://geps.dev/progress/75.00) 42 São Paulo's Common Core Progress:
+##  ![](https://geps.dev/progress/80.95) 42 São Paulo's Common Core Progress:
 
 ✅ **Milestone 0:** [Libft](https://github.com/thawansilva/libft)  
 ✅ **Milestone 1:** [printf](https://github.com/thawansilva/ft_printf), [get_next_line](https://github.com/thawansilva/get_next_line), Born2BeRoot  
