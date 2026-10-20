@@ -13,7 +13,7 @@
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 
-- 🔭 Full-Stack Jr. Developer at [Cinga](https://www.cinga.com.br/);</br>
+- 🔭 Software Engineer;</br>
 - 📚 Cadet at [42 São Paulo](https://www.42sp.org.br/);</br>
 - 🛠 I am developing [WebServ](https://github.com/thawansilva/WebServ) of 42 São Paulo School. </br>
 
